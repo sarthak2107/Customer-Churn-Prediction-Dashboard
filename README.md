@@ -39,7 +39,7 @@ An interactive and intelligent dashboard to predict customer churn for telecom s
 ## 📄 Dashboard Preview
 
 📎 **Click below to view the dashboard output (PDF format):**  
-👉 [Customer_Churn_Dashboard_Output.pdf](output.pdf) <!-- Ensure this filename matches your actual PDF filename in GitHub -->
+👉 [Customer_Churn_Dashboard_Output.pdf](Customer_Churn_Prediction_App.pdf) <!-- Ensure this filename matches your actual PDF filename in GitHub -->
 
 > The PDF contains screenshots of the actual dashboard, including filters, form inputs, predictions, and visual insights.
 
@@ -50,7 +50,7 @@ An interactive and intelligent dashboard to predict customer churn for telecom s
 - `customer.csv` – Cleaned dataset used for training and visualizations  
 - `churn_model.pkl` – Trained XGBoost model  
 - `app.py` – Streamlit dashboard app code  
-- `output.pdf` – PDF preview of the final dashboard
+- `Customer_Churn_Prediction_App.pdf` – PDF preview of the final dashboard
 
 ---
 
